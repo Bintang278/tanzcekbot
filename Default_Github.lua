@@ -15,16 +15,14 @@ Rdp = {
 
 ShowIP = true
 ip_add = {
-    "192.168.0.1",
-    "192.168.0.2",
-    "192.168.0.3",
-    "192.168.0.4",
-    "192.168.0.5",
-    "192.168.0.6",
-    "192.168.0.7"
+    "Slot 1,2",
+    "Slot 3,4",
+    "Slot 5,6",
+    "Slot 7,8",
+    "Slot 9,10",
 }
 
-hookURL = "Hook URL Kalian"
+hookURL = "https://discord.com/api/webhooks/1027802366113755146/bHnZ7UQoLn3xSTFBweeMrEjw-tfdbjgPFR8pH64rGv2PRceQ3KrahsMMHWi7mHys_XZH"
 
 Teks_Deskripsi = "List Nick Para Babu"
 Teks_Footer = "Golek Duit Kanggo Masa Depan"
